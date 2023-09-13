@@ -6,9 +6,10 @@ Pyvoussoir is an automatic de-keystoning/page-splitting tool for single camera b
 
 ## Usage
 Make sure pyvoussoir is installed, you can do so by running the following command.
-'''
+```
 pip install pyvoussoir
-'''
+```
+
 
 Follow the instructions given in [voussoir usage](https://github.com/jglev/voussoir#usage) when setting up your captures, they should look something like this.
 ![1](https://github.com/YellowTeamRobot/Pyvoussoir-GUI/assets/107053197/c8c3721b-c6b3-44db-ba2a-3cff0d3de028)
